@@ -1,5 +1,8 @@
 # ShelfWatch
 
+**Live demo: https://shelfwatch.pages.dev** - scan a shelf photo in your browser, no signup needed for the sample scan.
+
+
 A retail shelf stock monitor built on **Roboflow hosted inference**. Snap a
 photo of a retail shelf, and ShelfWatch detects the products on it, counts
 them by class, and flags anything running low so you know what to restock.
